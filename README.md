@@ -9,7 +9,7 @@ Conteúdo do Repositório: Código HTML das Aulas + Exemplos
 
 HTML Front-End Essential Class, é parte de uma play list para ensinar e compartilhar conhecimento sobre Fron-End para Iniciantes.
 
-HTML5 --> É a base para tudo, todos os grandes site tem HTML por de traz dos panos, se abrir o capo do fusca, com certeza encontrara HTML 😂🤣.
+HTML5 --> É a base para tudo, todos os grandes site tem HTML por de traz dos panos, se abrir o capo do fusca, com certeza encontrará HTML 😂🤣.
 
 A Linguagem de Marcação de Hipertexto (HTML) é uma linguagem de computador que compõe a maior parte das páginas da internet e dos aplicativos online. 
 
